@@ -37,3 +37,30 @@ nav li{
     object-fit: cover;
     object-position: center;
 }
+
+/*Estilização dos títulos*/
+.titulos{
+    text-align: center;
+}
+
+/*Estilização da sessão SOBRE NÓS*/
+.sobre_nos{
+    width: 60%;
+    margin-left: 20%;
+    text-align: justify;
+    font-size: 20;
+}
+.img_sobre_nos{
+    width: 15%;
+    float: left;
+    margin-right: 20px;
+}
+.titulo_sobre_nos{
+    clear: left;
+}
+
+/*Estilização da sessão NOSSO ESTABELECIMENTO*/
+.mapa{
+    text-align: center;
+    background: linear-gradient(#FFFFFF, #dad4f1);
+}
